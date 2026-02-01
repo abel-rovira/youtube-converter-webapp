@@ -109,4 +109,3 @@ Preview of the downloaded MP3 file being played.
 
    > Make sure the backend is running at `http://localhost:5000`.
 
-```
